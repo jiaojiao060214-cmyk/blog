@@ -5,6 +5,3 @@ type: "contact"
 layout: "contact"
 ---
 
-## 留言板
-
-欢迎在这里留言！

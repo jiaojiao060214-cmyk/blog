@@ -5,6 +5,3 @@ type: "friends"
 layout: "friends"
 ---
 
-## 友情链接
-
-欢迎交换友链，请留言联系我。
